@@ -4,7 +4,7 @@ This repository contains the source code for the official website of the Incogni
 
 ## Features
 
-*   **Privacy First**: All conversations are designed with user privacy as the top priority.
+*   **Privacy**: All conversations are designed with user privacy configuration.
 *   **Auto-Erase Conversations**: Chats are automatically deleted after the conversation ends.
 *   **Multi-Conversation Support**: Easily host and switch between multiple conversations at the same time.
 *   **Built-in Translations**: The app supports translations to communicate with people from around the world.
