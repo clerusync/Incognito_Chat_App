@@ -11,7 +11,7 @@ This repository contains the source code for the official website of the Incogni
 
 ## Download the App
 
-*   **iOS**: Coming soon!
+*   **iOS**: [Apple Store](https://apps.apple.com/app/incognito-chat/id1634890198)
 *   **Android**: Coming soon!
 
 ## Repository Overview
